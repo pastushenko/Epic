@@ -10,10 +10,12 @@ $dbPassword = 'epic_skills_password';
 $dbHost = 'localhost';
 $connection = mysqli_connect($dbHost, $dbUser, $dbPassword);
 mysqli_select_db($connection, $dbName);
-$query = 'SELECT `title` FROM `page` WHERE `alias` = "index" LIMIT 1;';
-$result = mysqli_query($connection, $query);
-if (!mysqli_num_rows($result)) {
-    $query = 'SELECT `title` FROM `page` WHERE `alias` = "default" LIMIT 1;';
+
+if (time() % 2) {
+    $query = 'SELECT `title` FROM `page` WHERE `alias` = "index" LIMIT 1;';
+    $result = mysqli_query($connection, $query);
+} else {
+    $query = 'SELECT `title` FROM `page` WHERE `alias` = "index2" LIMIT 1;';
     $result = mysqli_query($connection, $query);
 }
 ?>

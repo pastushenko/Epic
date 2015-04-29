@@ -25,9 +25,10 @@ class IndexController
 
     public function indexAction()
     {
-        $pageTitle = $this->pageModel->findPageTitleByAlias('index');
-        if (!$pageTitle) {
-            $pageTitle = $this->pageModel->findPageTitleByAlias('default');
+        if (time() % 2) {
+            $pageTitle = $this->pageModel->findPageTitleByAlias('index');
+        } else {
+            $pageTitle = $this->pageModel->findPageTitleByAlias('index2');
         }
 
         $products = $this->productModel->findAllProducts();

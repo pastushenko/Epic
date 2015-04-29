@@ -1,7 +1,7 @@
 <?php
-require_once('mvc/PageModel.php');
-require_once('mvc/ProductModel.php');
-require_once('mvc/IndexController.php');
+require_once('app/PageModel.php');
+require_once('app/ProductModel.php');
+require_once('app/IndexController.php');
 
 $pageModel = new PageModel();
 $productModel = new ProductModel();
