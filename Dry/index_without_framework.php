@@ -1,5 +1,4 @@
-<?php require_once('framework.php');
-?><html>
+<html>
     <head>
         <title>Title</title>
     </head>
