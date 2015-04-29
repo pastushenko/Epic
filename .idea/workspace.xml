@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f29ada6-5e6f-4977-8aeb-f3a69a1cb233" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mvc/db.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mvc/with-mvc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dry/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mvc/index_with_mvc.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/index_with_framework.php" afterPath="$PROJECT_DIR$/Dry/with-framework.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/index_without_framework.php" afterPath="$PROJECT_DIR$/Dry/without-framework.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/index_without_mvc.php" afterPath="$PROJECT_DIR$/Mvc/without-mvc.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/mvc/BaseModel.php" afterPath="$PROJECT_DIR$/Mvc/app/BaseModel.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/mvc/IndexController.php" afterPath="$PROJECT_DIR$/Mvc/app/IndexController.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/mvc/PageModel.php" afterPath="$PROJECT_DIR$/Mvc/app/PageModel.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/mvc/ProductModel.php" afterPath="$PROJECT_DIR$/Mvc/app/ProductModel.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/mvc/config.php" afterPath="$PROJECT_DIR$/Mvc/app/config.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/mvc/view.php" afterPath="$PROJECT_DIR$/Mvc/app/view.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SampleFramework/micro-framework.php" afterPath="$PROJECT_DIR$/framework/micro-framework.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SampleFramework/with-framework.php" afterPath="$PROJECT_DIR$/framework/with-framework.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SampleFramework/without-framework.php" afterPath="$PROJECT_DIR$/framework/without-framework.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/dry/.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/.idea/workspace.xml" afterPath="$PROJECT_DIR$/dry/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/framework.php" afterPath="$PROJECT_DIR$/dry/framework.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/with-framework.php" afterPath="$PROJECT_DIR$/dry/with-framework.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Dry/without-framework.php" afterPath="$PROJECT_DIR$/dry/without-framework.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/app/BaseModel.php" afterPath="$PROJECT_DIR$/mvc/app/BaseModel.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/app/IndexController.php" afterPath="$PROJECT_DIR$/mvc/app/IndexController.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/app/PageModel.php" afterPath="$PROJECT_DIR$/mvc/app/PageModel.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/app/ProductModel.php" afterPath="$PROJECT_DIR$/mvc/app/ProductModel.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/app/config.php" afterPath="$PROJECT_DIR$/mvc/app/config.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/app/view.php" afterPath="$PROJECT_DIR$/mvc/app/view.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/db.sql" afterPath="$PROJECT_DIR$/mvc/db.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/with-mvc.php" afterPath="$PROJECT_DIR$/mvc/with-mvc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mvc/without-mvc.php" afterPath="$PROJECT_DIR$/mvc/without-mvc.php" />
     </list>
     <ignored path="Epic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +41,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="BaseModel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mvc/app/BaseModel.php">
+        <entry file="file://$PROJECT_DIR$/mvc/app/BaseModel.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="702">
               <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
@@ -55,7 +51,7 @@
         </entry>
       </file>
       <file leaf-file-name="db.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mvc/db.sql">
+        <entry file="file://$PROJECT_DIR$/mvc/db.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1836">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -65,7 +61,7 @@
         </entry>
       </file>
       <file leaf-file-name="without-mvc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mvc/without-mvc.php">
+        <entry file="file://$PROJECT_DIR$/mvc/without-mvc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="936">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -89,7 +85,7 @@
         </entry>
       </file>
       <file leaf-file-name="without-framework.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dry/without-framework.php">
+        <entry file="file://$PROJECT_DIR$/dry/without-framework.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1134">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -99,7 +95,7 @@
         </entry>
       </file>
       <file leaf-file-name="with-mvc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mvc/with-mvc.php">
+        <entry file="file://$PROJECT_DIR$/mvc/with-mvc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="270">
               <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
@@ -109,7 +105,7 @@
         </entry>
       </file>
       <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mvc/app/IndexController.php">
+        <entry file="file://$PROJECT_DIR$/mvc/app/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="684">
               <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -236,6 +232,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Epic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Epic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="framework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -338,7 +348,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mvc/app/BaseModel.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/BaseModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="702">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
@@ -346,7 +356,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/db.sql">
+    <entry file="file://$PROJECT_DIR$/mvc/db.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1836">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -354,7 +364,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/without-mvc.php">
+    <entry file="file://$PROJECT_DIR$/mvc/without-mvc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="936">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -374,7 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dry/without-framework.php">
+    <entry file="file://$PROJECT_DIR$/dry/without-framework.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1134">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -382,7 +392,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/with-mvc.php">
+    <entry file="file://$PROJECT_DIR$/mvc/with-mvc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="270">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
@@ -390,7 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="684">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -422,7 +432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dry/with-framework.php">
+    <entry file="file://$PROJECT_DIR$/dry/with-framework.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="648">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -430,21 +440,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dry/framework.php">
+    <entry file="file://$PROJECT_DIR$/dry/framework.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="450">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/config.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="180">
           <caret line="3" column="43" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/ProductModel.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/ProductModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="486">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -454,7 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/PageModel.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/PageModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="486">
           <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
@@ -464,7 +474,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/view.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="432">
           <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
@@ -486,7 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dry/without-framework.php">
+    <entry file="file://$PROJECT_DIR$/dry/without-framework.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1134">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -494,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/BaseModel.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/BaseModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="702">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
@@ -502,7 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/db.sql">
+    <entry file="file://$PROJECT_DIR$/mvc/db.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1836">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -510,7 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/without-mvc.php">
+    <entry file="file://$PROJECT_DIR$/mvc/without-mvc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="936">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -522,7 +532,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/with-mvc.php">
+    <entry file="file://$PROJECT_DIR$/mvc/with-mvc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="270">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
@@ -530,7 +540,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mvc/app/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/mvc/app/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="684">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />

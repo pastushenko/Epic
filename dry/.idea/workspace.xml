@@ -26,7 +26,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="without-framework.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/without-framework.php">
+        <entry file="file://$USER_HOME$/Projects/Epic/dry/without-framework.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.074074" vertical-offset="520" max-vertical-offset="1134">
               <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
@@ -36,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="with-framework.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/with-framework.php">
+        <entry file="file://$USER_HOME$/Projects/Epic/dry/with-framework.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.029315962" vertical-offset="0" max-vertical-offset="648">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -50,9 +50,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dry/index_without_framework.php" />
-        <option value="$PROJECT_DIR$/Dry/index_with_framework.php" />
-        <option value="$PROJECT_DIR$/index_with_framework.php" />
+        <option value="$USER_HOME$/Projects/Epic/Dry/Dry/index_without_framework.php" />
+        <option value="$USER_HOME$/Projects/Epic/Dry/Dry/index_with_framework.php" />
+        <option value="$USER_HOME$/Projects/Epic/Dry/index_with_framework.php" />
       </list>
     </option>
   </component>
@@ -96,14 +96,8 @@
               <option name="myItemId" value="Dry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Dry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dry" />
+              <option name="myItemId" value="dry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -113,7 +107,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/Epic/Dry" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -175,7 +169,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/without-framework.php">
+    <entry file="file://$USER_HOME$/Projects/Epic/dry/without-framework.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.074074" vertical-offset="520" max-vertical-offset="1134">
           <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
@@ -183,7 +177,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/with-framework.php">
+    <entry file="file://$USER_HOME$/Projects/Epic/dry/with-framework.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.029315962" vertical-offset="0" max-vertical-offset="648">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
